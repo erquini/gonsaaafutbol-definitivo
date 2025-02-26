@@ -19,7 +19,7 @@ footer {
   bottom: 0;
 }
 
-/* ✅ Estilos para el navbar */
+/*Estilos para el navbar */
 .navbar-brand {
   display: flex;
   align-items: center;
@@ -43,7 +43,7 @@ footer {
   color: #ffc107; /* Amarillo (puedes cambiarlo si quieres) */
 }
 
-/* ✅ Ajuste de los enlaces para que queden más elegantes */
+/*Ajuste de los enlaces para que queden más elegantes */
 .navbar-nav .nav-link {
   font-size: 1rem;
   font-weight: 500;
@@ -54,7 +54,7 @@ footer {
   color: #ffc107 !important; /* Efecto hover en amarillo */
 }
 
-/* ✅ Mejor apariencia en botones */
+/*Mejor apariencia en botones */
 .btn-outline-light {
   border-radius: 5px;
   padding: 5px 15px;
